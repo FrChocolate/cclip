@@ -25,7 +25,7 @@ curl -sL http://bashupload.com/ShYfv/JLTiF.sh | bash
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/cclip.git
+git clone https://github.com/frchocolate/cclip.git
 cd cclip
 ```
 

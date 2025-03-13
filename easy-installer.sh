@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/yourusername/cclip.git
+git clone https://github.com/frchocolate/cclip.git
 cd cclip
 
 set -e
